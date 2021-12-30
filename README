@@ -1,0 +1,12 @@
+Zarek Lazowski
+
+USER INFO:
+This program was created on the MSP432P401r microconroller. 
+
+The multimeter can measure voltages between 0 and 3.3 V, and frequencies
+between 0 and 1000 Hz. 
+
+To create the program, add the provided source files to the project and compile
+to program the microcontroller. The PDF file goes into depth the details on how
+the program operates, how to assemble the device, and technical specifications
+for the device.
